@@ -4,6 +4,8 @@
   MoneySaverApp ||  An app for money management </br>
 </head>
 </body>
-  Created a small app from scratch using basic android skills and tools.Used Android Studio platform.
+An app that keeps a count on current balance, fixed plans for spending, expenditures and bucketlist goals.
+Provides appropriate toasts on updating taking into consideration all the above.
+An App built on Android Studio Platform - beginner level
 </body>
 </html>
